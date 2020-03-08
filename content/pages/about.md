@@ -9,4 +9,4 @@ and I would probably have been burned at the stake.
 
 😆
 
-[my_sweet_photo]: {static}/images/HotPhotoOfMe.jpg
+[my_sweet_photo]: {static}/images/IMG_20190615_155821.jpg
